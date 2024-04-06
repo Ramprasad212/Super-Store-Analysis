@@ -22,5 +22,3 @@ Overview: Designed a comprehensive Power BI dashboard for Super Store Sales Anal
 -A Map is made on Profit and sales by States
 
 Data CSV file: https://lnkd.in/gaiGd2YG
-hashtag#Salesdashord
-hashtag#dashboard hashtag#PowerBI hashtag#dataanalyst hashtag#Datavisualization
